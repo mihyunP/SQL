@@ -321,11 +321,9 @@ ORDER BY DATEDIFF(OUTS.DATETIME,INS.DATETIME) DESC
 # ORDER BY OUTS.DATETIME - INS.DATETIME DESC
 
 LIMIT 2;
-
-[DATETIME에서 DAT
 ```
 
-E로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)
+[DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)
 
 ```sql
 -- 코드를 입력하세요 : 각 동물의 아이디와 이름, 들어온 날짜1를 조회하는 SQL문을 작성해주세요. 이때 결과는 아이디 순으로 조회
