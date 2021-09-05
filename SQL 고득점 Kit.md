@@ -262,7 +262,14 @@ WHERE @hour < 23
 #     COUNT(IF(hour(datetime)=23, hour(datetime), NULL)) AS 'COUNT' 
 #     FROM ANIMAL_OUTS
 ```
-
+```sql
+-- SQL에서도 변수(variable) 3가지 : `사용자 정의 변수`, `지역 변수`, `시스템 변수`
+-- 사용자 정의 변수 선언
+SET @start = 1, @finish = 10; -- SET @변수명 을 사용시 = 대입연산자를 사용
+SELECT @start := 1, @finish := 10; -- SELECT @변수명 을 사용시 := 과 같은 대입연산자를 사용
+-- 사용자 정의 변수 조회 및 활용
+SELECT * FROM tb_code WHERE code_cd BETWEEN @start AND @finish;
+```
 
 
 # IS NULL
