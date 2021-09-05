@@ -396,7 +396,8 @@ WHERE NAME LIKE '%el%'
 AND ANIMAL_TYPE = 'Dog'
 ORDER BY NAME; -- 결과는 이름 순으로 조회
 
--- MY SQL 대소문자 구분안함
+-- MY SQL 대소문자 구분안함 <- 컬럼명, 테이블명, SQL문은 대소문자 구분X, 문자열 데이터형은 대소문자 구분O?
+-- WHERE절에서 대소문자 구별하려면? WHERE BINARY(NAME) LIKE '%el%' 소문자 el 포함한 데이터만 출력됨
 ```
 
 [중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)
