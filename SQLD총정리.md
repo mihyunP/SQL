@@ -37,11 +37,11 @@
 
 -> **피터첸 표기법**
 
-![image-20230430155540252](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430155540252.png)
+![image-20230430155540252](https://github.com/mihyunP/SQL/assets/69749222/c2057aae-20b6-427a-a3e2-ce9415f91121)
 
 -> **IE 표기법**
 
-![image-20230430171908701](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430171908701.png)
+![image-20230430171908701](https://github.com/mihyunP/SQL/assets/69749222/f57f59c9-83ba-4c61-b391-822ba80de88e)
 
 ![image-20230430223359009](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430223359009.png)
 
