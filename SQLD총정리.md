@@ -43,15 +43,15 @@
 
 ![image-20230430171908701](https://github.com/mihyunP/SQL/assets/69749222/f57f59c9-83ba-4c61-b391-822ba80de88e)
 
-![image-20230430223359009](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430223359009.png)
+![image-20230430223359009](https://github.com/mihyunP/SQL/assets/69749222/0f729040-e517-4035-a2e4-9e7aa20b1d42)
 
-![image-20230430233933984](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430233933984.png)
+![image-20230430233933984](https://github.com/mihyunP/SQL/assets/69749222/ab4d2ca1-dfa4-449c-a766-80323300463f)
 
 -> **Baker 표기법**
 
-![image-20230430223642941](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430223642941.png)
+![i![image-20230430223642941](https://github.com/mihyunP/SQL/assets/69749222/8cb4a164-6e50-4674-ac09-a1f8534e05b4)
 
-![image-20230430233945551](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430233945551.png)
+!![image-20230430233945551](https://github.com/mihyunP/SQL/assets/69749222/4cd0bc6d-fc1f-4d0b-85fd-d00b451ddca4)
 
 
 
@@ -98,9 +98,7 @@ cf) UML : 개발자간의 의사소통을 원활하게 하기 위해 표준화�
 분류 : 주식별자, 보조식별자 / 내부식별자, 외부식별자 / 단일 식별자, 복합 식별자 / 본질 식별자, 인조 식별자
 
 
-
-![image-20230430233746581](C:\Users\mihyun\AppData\Roaming\Typora\typora-user-images\image-20230430233746581.png)
-
+![image-20230430233746581](https://github.com/mihyunP/SQL/assets/69749222/4949abfd-41ed-4160-a4c7-0855b74bd263)
 
 
 
