@@ -49,9 +49,9 @@
 
 -> **Baker 표기법**
 
-![i![image-20230430223642941](https://github.com/mihyunP/SQL/assets/69749222/8cb4a164-6e50-4674-ac09-a1f8534e05b4)
+![image-20230430223642941](https://github.com/mihyunP/SQL/assets/69749222/8cb4a164-6e50-4674-ac09-a1f8534e05b4)
 
-!![image-20230430233945551](https://github.com/mihyunP/SQL/assets/69749222/4cd0bc6d-fc1f-4d0b-85fd-d00b451ddca4)
+![image-20230430233945551](https://github.com/mihyunP/SQL/assets/69749222/4cd0bc6d-fc1f-4d0b-85fd-d00b451ddca4)
 
 
 
